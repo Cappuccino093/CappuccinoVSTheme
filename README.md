@@ -4,7 +4,7 @@
 
 My personal theme for Visual Studio! Based on the blue color because it's my favorite color!
 
-![Preview image](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSTheme/master/CappuccinoVSTheme/Images/Preview.png)
+![Preview image](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSTheme/main/Images/Icon.png)
 
 ## Compatibility ⚠️
 
@@ -22,7 +22,7 @@ If you want to contribute to this project, you can do it by forking this reposit
 
 ## License 📄
 
-This project is under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSTheme/master/LICENSE) file for details.
+This project is under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSTheme/main/License.txt) file for details.
 
 ## Enjoy! 💙
 
