@@ -4,13 +4,13 @@
 
 My personal theme for Visual Studio! Based on the blue color because it's my favorite color!
 
-![Preview image](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSTheme/main/Images/Preview.png)
+![Preview image](https://cappuccinotheme.blob.core.windows.net/images/PreviewVS.png)
 
 ## Compatibility ⚠️
 
 This theme is generated using the [Theme Converter for Visual Studio](https://github.com/microsoft/theme-converter-for-vs)
 tool so it may not be 100% faithful to my original theme
-[Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.cappuccino-vscode-theme).
+[Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.CappuccinoVSCodeTheme).
 
 I have tested the theme with the majority of languages and it works perfectly.
 If you find any error, please let me know!
@@ -25,14 +25,12 @@ you do it!
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.cappuccino-vscode-theme)
+- [Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.CappuccinoVSCodeTheme)
 - [Theme Converter for Visual Studio](https://github.com/microsoft/theme-converter-for-vs)
 
 ## License 📄
 
-This project is under the MIT License -
-see the [LICENSE.md](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSTheme/main/LICENSE.md)
-file for details.
+This project is under the MIT License, see [License File](https://cappuccinotheme.blob.core.windows.net/documents/License.md) for more information.
 
 ## Enjoy! 💙
 

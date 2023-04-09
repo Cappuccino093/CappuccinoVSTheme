@@ -10,7 +10,7 @@ My personal theme for Visual Studio! Based on the blue color because it's my fav
 
 This theme is generated using the [Theme Converter for Visual Studio](https://github.com/microsoft/theme-converter-for-vs)
 tool so it may not be 100% faithful to my original theme
-[Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.cappuccino-vscode-theme).
+[Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.CappuccinoVSCodeTheme).
 
 I have tested the theme with the majority of languages and it works perfectly.
 If you find any error, please let me know!
@@ -25,7 +25,7 @@ you do it!
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.cappuccino-vscode-theme)
+- [Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.CappuccinoVSCodeTheme)
 - [Theme Converter for Visual Studio](https://github.com/microsoft/theme-converter-for-vs)
 
 ## License 📄
