@@ -18,3 +18,7 @@ for Visual Studio Code.
 
 - Changed files and project names
 - Added changes until 1.2.0 from the original theme
+
+## 1.2.2
+
+- Added changes until 1.2.2 from the original theme
