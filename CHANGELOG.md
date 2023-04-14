@@ -34,3 +34,7 @@ for Visual Studio Code.
 ## 1.3.2
 
 - Fixed extension name
+
+## 1.3.3
+
+- Fixed extension colors to match with the original theme
