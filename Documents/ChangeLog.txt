@@ -22,3 +22,7 @@ for Visual Studio Code.
 ## 1.2.2
 
 - Added changes until 1.2.2 from the original theme
+
+## 1.3.0
+
+- Added changes until 1.3.0 from the original theme
